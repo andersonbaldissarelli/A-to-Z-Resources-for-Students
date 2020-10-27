@@ -73,3 +73,4 @@
 
 ## 8. Mobile App Development
   - [Popular Movies - Udacity](https://github.com/dipakkr/Popular-Movies)
+  - [App Flutter](https://www.youtube.com/watch?v=XeUiJJN0vsE&list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB&ab_channel=Flutterando)
